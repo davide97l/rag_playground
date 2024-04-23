@@ -1,0 +1,31 @@
+Week,Month,Year,Origin Country,Destination Country,Trade Lane,Commodity,Customer
+4,9,2022,USA,Australia,10,Iron Ore,Company D
+5,4,2020,Italy,UK,12,Wheat,Company A
+5,6,2021,China,UK,20,Iron Ore,Company D
+1,1,2018,Italy,China,9,Gas,Company D
+5,9,2023,UK,USA,19,Iron Ore,Company A
+2,9,2022,India,China,12,Copper,Company B
+1,11,2018,France,USA,19,Oil,Company C
+2,5,2020,UK,USA,3,Coffee,Company C
+5,7,2020,USA,Italy,16,Corn,Company A
+5,8,2021,Italy,China,17,Copper,Company E
+4,10,2021,Australia,India,11,Cotton,Company E
+5,3,2021,China,India,2,Cotton,Company C
+5,12,2020,France,Germany,10,Iron Ore,Company C
+2,12,2020,UK,Germany,12,Cotton,Company C
+3,1,2020,USA,UK,17,Soybeans,Company D
+2,8,2018,India,China,5,Coffee,Company A
+1,12,2022,Australia,India,15,Oil,Company E
+3,2,2019,Australia,Italy,6,Wheat,Company C
+4,1,2022,India,Spain,8,Copper,Company A
+1,11,2020,China,Germany,20,Wheat,Company E
+3,1,2021,Spain,USA,7,Copper,Company E
+4,7,2021,France,Japan,1,Soybeans,Company A
+4,3,2023,Australia,USA,16,Iron Ore,Company C
+5,8,2022,UK,Spain,14,Corn,Company C
+5,4,2018,Japan,France,16,Oil,Company A
+1,5,2023,Italy,USA,16,Coffee,Company E
+5,5,2022,USA,Italy,19,Corn,Company B
+1,2,2022,Spain,France,0,Wheat,Company D
+5,4,2019,China,India,0,Soybeans,Company D
+1,3,2020,China,India,2,Coffee,Company B
